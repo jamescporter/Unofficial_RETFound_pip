@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "retfound-unofficial"
-version = "0.1.0" #todo: Increment this version for subsequent PyPI uploads (e.g., 0.1.1)
+version = "0.1.0"
 description = "An unofficial PyPI package for the RETFound foundation model."
 readme = "README.md"
 requires-python = ">=3.11"
@@ -41,8 +41,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Original Repository" = "[https://github.com/rmaphoh/RETFound_MAE](https://github.com/rmaphoh/RETFound_MAE)"
-"Source Commit" = "[https://github.com/rmaphoh/RETFound_MAE/commit/ae9a9ecf37857cf47b8aa9f87cd6f710d75db287](https://github.com/rmaphoh/RETFound_MAE/commit/ae9a9ecf37857cf47b8aa9f87cd6f710d75db287)"
+"Original Repository" = "https://github.com/rmaphoh/RETFound_MAE"
+"Source Commit" = "https://github.com/rmaphoh/RETFound_MAE/commit/ae9a9ecf37857cf47b8aa9f87cd6f710d75db287"
 
 [tool.setuptools.packages.find]
 where = ["."]
