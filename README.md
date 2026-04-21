@@ -4,7 +4,7 @@ This is an unofficial, repackaged version of the official [RETFound](https://git
 
 ## Source Information
 
-This package distributes the source code from the official RETFound repository, synchronised to the following exact iteration:
+This package distributes the source code from the official RETFound repository, originally based on this source though we have updated the code since:
 * **Upstream Commit:** `ae9a9ecf37857cf47b8aa9f87cd6f710d75db287`
 * **Commit Date:** 30 November 2025
 
