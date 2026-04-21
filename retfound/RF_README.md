@@ -17,6 +17,10 @@ Please contact 	**ykzhoua@gmail.com** or **yukun.zhou.19@ucl.ac.uk** if you have
 - RETFound has been validated in multiple disease detection tasks
 - RETFound can be efficiently adapted to customised tasks
 
+### 🔬Preprocessing note
+- Training/evaluation checkpoints assume ImageNet normalisation (scale input pixels to `[0, 1]`, then apply ImageNet mean/std per channel).
+- Per-image normalisation is experimental (for exploratory analysis only) and may shift predictions.
+
 
 ### 🎉News
 
